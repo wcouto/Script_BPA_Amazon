@@ -8,7 +8,7 @@
 
 <div align="center">
 
-![python](https://img.shields.io/badge/Python-v3.7-blue)<space><space>
+![python](https://img.shields.io/badge/Python-v3.9-blue)<space><space>
 
 </div>
 
