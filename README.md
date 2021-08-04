@@ -14,4 +14,4 @@
 
 ## Overview
 
-Este código tem como objetivo buscar a palavra chave "Iphone" no site da Amazon, e salvar em um Excel o resultado da primeira página desta busca.
+Este código tem como objetivo buscar a palavra chave "Iphone" no site da Amazon e salvar em um Excel o resultado da primeira página desta busca.
