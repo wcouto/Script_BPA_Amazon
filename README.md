@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<p align="center">🚀Processo seletivo para Desenvolvedor Python Jr. na BPA Technologies!🚀</p>
+<p align="center">🚀Processo seletivo para Programador Python Jr. na BPA Technologies!🚀</p>
 
 <div align="center">
 
