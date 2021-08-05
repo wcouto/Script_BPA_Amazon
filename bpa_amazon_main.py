@@ -52,7 +52,7 @@ def populate_dicts(products, list_products, list_prices):
 
 def create_excel(list_products, list_prices, root_dir):
     df = pd.DataFrame({'Product Name': list_products, 'Product Price': list_prices})
-    writer = pd.ExcelWriter(root_dir + "\\Output\\Search_Iphone_Amazon_Page1.xlsx", engine='xlsxwriter')
+    writer = pd.ExcelWriter(root_dir + "\\Search_Iphone_Amazon_Page1.xlsx", engine='xlsxwriter')
     df.to_excel(writer, sheet_name='Search_Iphone_Amazon_Page1', index=False)
     writer.save()
 
