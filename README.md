@@ -13,6 +13,7 @@
 ![js](https://img.shields.io/badge/-JavaScript-yellow)<space><space>
 ![nodejs](https://img.shields.io/badge/-NodeJs-green)<space><space>
 ![docker](https://img.shields.io/badge/-Docker-blue)<space><space>  
+![firebase](https://img.shields.io/badge/-FireBase-red)<space><space>
 </div>
 
 ## Overview
