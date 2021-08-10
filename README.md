@@ -8,8 +8,11 @@
 
 <div align="center">
 
-![python](https://img.shields.io/badge/Python-v3.9-blue)<space><space>
-
+![html](https://img.shields.io/badge/-HTML-orange)<space><space>
+![css](https://img.shields.io/badge/-CSS-blue)<space><space>
+![js](https://img.shields.io/badge/-JavaScript-yellow)<space><space>
+![nodejs](https://img.shields.io/badge/-NodeJs-green)<space><space>
+![docker](https://img.shields.io/badge/-Docker-blue)<space><space>  
 </div>
 
 ## Overview
